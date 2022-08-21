@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Imad 👋
 
-<!--
-**alisawiali/alisawiali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=alisawiali.github.io&style=for-the-badge&url=https%3A%2F%2Fwww.alisawiali.github.io)](https://www.alisawiali.github.io)
 
-Here are some ideas to get you started:
+About me section - TBD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I like
+
+- Travel to share knowledge on conferences, meetups, podcasts, workshops, mentorship, etc.
+- Front end Development, HTML/CSS, Javascript, UI Design Concepts, Photography.
+
+
+## Some of my open-source projects
+
+- [Imad Professional Portfolio](https://alisawiali.github.io/) - This is my profesional website, there you will find more information regarding my latest projects and the new things i am working on.
+
+
+### Connect with me
+
+[<img align="left" alt="alisawiali.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="alisawi-imad-461ab3239 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[website]: https://www.alisawiali.github.io
+[linkedin]:https://www.linkedin.com/in/alisawi-imad-461ab3239/
