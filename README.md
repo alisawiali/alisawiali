@@ -6,6 +6,8 @@ About me section - TBD
 
 ---( Ich bin Imad lebe in Deutschland und aufgewachsen und geboren im Irak... Journalist( Medienwisenschaft studiret und ein Jahr im Radio hab ich mich nach dem Studeum Beschäftigt. Im Jahr anfang 2022 hab  mit als Devoloper zu studiren).
 
+
+
 ## I like
 
 - Travel to share knowledge on conferences, meetups, podcasts, workshops, mentorship, etc.
