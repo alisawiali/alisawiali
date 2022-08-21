@@ -1,6 +1,6 @@
 ### Hi there, I'm Imad 👋
 
-[![Website](https://img.shields.io/website?label=alisawiali.github.io&style=for-the-badge&url=https%3A%2F%2Fwww.alisawiali.github.io)](https://www.alisawiali.github.io)
+[![Website](https://img.shields.io/website?label=alisawiali.github.io&style=for-the-badge&url=https%3A%2F%2Falisawiali.github.io)](https://alisawiali.github.io)
 
 About me section - TBD
 
@@ -21,5 +21,5 @@ About me section - TBD
 [<img align="left" alt="alisawi-imad-461ab3239 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[website]: https://www.alisawiali.github.io
+[website]: https://alisawiali.github.io
 [linkedin]:https://www.linkedin.com/in/alisawi-imad-461ab3239/
