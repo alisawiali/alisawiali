@@ -3,7 +3,8 @@
 [![Website](https://img.shields.io/website?label=alisawiali.github.io&style=for-the-badge&url=https%3A%2F%2Falisawiali.github.io)](https://alisawiali.github.io)
 
 
----( Ich bin Imad lebe in Deutschland und aufgewachsen und geboren im Irak... Journalist( Medienwisenschaft studiret und ein Jahr im Radio hab ich mich nach dem Studeum Beschäftigt. Im Jahr anfang 2022 hab  mit als Devoloper zu studiren).
+---( I'm Imad, I live in Germany and grew up and was born in Iraq... Journalist (studied media science and I worked for a year in the radio after graduation. In the beginning of 2022 I have to study as a developer).
+
 
 
 
