@@ -4,8 +4,6 @@
 
 
 
-
-
 ## I like
 
 - Travel to share knowledge on conferences, meetups, podcasts, workshops, mentorship, etc.
