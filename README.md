@@ -7,7 +7,7 @@ Junior Front-end developer,I enjoy spending my time tackling interesting problem
 ## I like
 
 - Travel to share knowledge on conferences, meetups, podcasts, workshops, mentorship, etc.
-- Front end Development, HTML/CSS,SASS, Javascript,React,github, UI Design Concepts, Photography.
+- Front end Development, HTML/ CSS, SASS, Javascript ,React, github, UI Design Concepts, Photography.
 
 
 ## Some of my open-source projects
