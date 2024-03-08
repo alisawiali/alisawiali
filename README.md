@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=alisawiali.github.io&style=for-the-badge&url=https%3A%2F%2Falisawiali.github.io)](https://alisawiali.github.io)
 
-Junior Front-end developer,I enjoy spending my time tackling interesting problems, and presenting feasible innovative solutions, I am always driven by my curiosity to find answers to the most pressing questions, I am blessed to have the ability to quickly learn and adapt to arising challenges. I love to work closely with customers...
+ Front-end developer,I enjoy spending my time tackling interesting problems, and presenting feasible innovative solutions, I am always driven by my curiosity to find answers to the most pressing questions, I am blessed to have the ability to quickly learn and adapt to arising challenges. I love to work closely with customers...
 
 ## I like
 
