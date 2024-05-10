@@ -7,7 +7,7 @@
 ## I like
 
 - Travel to share knowledge on conferences, meetups, podcasts, workshops, mentorship, etc.
-- Frontend Development, HTML/ CSS3, SASS,mobile responsive,Tailwind.css, Javascript , React, github, UI Design Concepts, Photography.
+- Frontend Development, HTML/ CSS3, SASS,mobile responsive,Tailwind.css, Javascript,Typescript , Wordpress , React, github, UI Design Concepts, Photography.
 
 
 ## Some of my open-source projects
