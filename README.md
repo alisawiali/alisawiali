@@ -2,17 +2,18 @@
 
 [![Website](https://img.shields.io/website?label=alisawiali.github.io&style=for-the-badge&url=https%3A%2F%2Falisawiali.github.io)](https://alisawiali.github.io)
 
- Full-stack developer,I enjoy spending my time tackling interesting problems, and presenting feasible innovative solutions, I am always driven by my curiosity to find answers to the most pressing questions, I am blessed to have the ability to quickly learn and adapt to arising challenges. I love to work closely with customers...
-
+Vollstack-Entwickler: Ich verbringe gerne meine Zeit damit, interessante Probleme zu lösen und machbare, innovative Lösungen zu präsentieren. Meine Neugier treibt mich immer dazu an, Antworten auf die drängendsten Fragen zu finden. Ich bin dankbar, die Fähigkeit zu haben, schnell zu lernen und mich an neue Herausforderungen anzupassen. Ich arbeite gerne eng mit Kunden zusammen...
 ## I like
 
-- Travel to share knowledge on conferences, meetups, podcasts, workshops, mentorship, etc.
-- Frontend Development, HTML/ CSS3, SASS,mobile responsive,Tailwind.css, Javascript,Typescript , Wordpress , React, github, UI Design Concepts, Photography.
+- 
+Reisen, um Wissen auf Konferenzen, Meetups, Podcasts, Workshops, durch Mentoring usw. zu teilen.
 
+Frontend-Entwicklung, HTML/CSS3, SASS, mobile Responsiveness, Tailwind.css, Javascript, Typescript, Wordpress, React, GitHub, UI-Design-Konzepte, Fotografie.
 
 ## Some of my open-source projects
 
-- [Imad Professional Portfolio](https://alisawiali.github.io/) - This is my profesional website, there you will find more information regarding my latest projects and the new things i am working on.
+ChatGPT:
+Imad Professionelles Portfolio – Dies ist meine professionelle Website. Dort finden Sie weitere Informationen zu meinen aktuellen Projekten und den neuen Dingen, an denen ich arbeite.
 
 
 ### Connect with me
