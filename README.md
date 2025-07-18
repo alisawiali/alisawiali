@@ -8,7 +8,7 @@ Vollstack-Entwickler: Ich verbringe gerne meine Zeit damit, interessante Problem
 - 
 Reisen, um Wissen auf Konferenzen, Meetups, Podcasts, Workshops, durch Mentoring usw. zu teilen.
 
-Frontend-Entwicklung, HTML/CSS3, SASS, mobile Responsiveness, Tailwind.css, Javascript, Typescript, Wordpress, React, GitHub, UI-Design-Konzepte, Fotografie.
+Frontend-Entwicklung, HTML/CSS3, SASS, mobile Responsiveness, Tailwind.css, Javascript, Typescript, Wordpress, React, GitHub, UI-Design-Konzepte, Fotografie,excel
 
 ## Some of my open-source projects
 
