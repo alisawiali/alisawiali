@@ -8,9 +8,9 @@ Vollstack-Entwickler: Ich verbringe gerne meine Zeit damit, interessante Problem
 - 
 Reisen, um Wissen auf Konferenzen, Meetups, Podcasts, Workshops, durch Mentoring usw. zu teilen.
 
-Frontend-Entwicklung, HTML/CSS3, SASS, mobile Responsiveness, Tailwind.css, Javascript, Typescript, Wordpress, React, GitHub, UI-Design-Konzepte, Fotografie,excel
+Frontend-Entwicklung,UI, HTML/CSS3, SASS, mobile Responsiveness, Tailwind.css, Javascript, Typescript, Wordpress, React, GitHub, UI-Design-Konzepte, Fotografie,excel,Word
 
-## Some of my open-source projects
+## Some of my open-source proje
 
 ChatGPT:
 Imad Professionelles Portfolio – Dies ist meine professionelle Website. Dort finden Sie weitere Informationen zu meinen aktuellen Projekten und den neuen Dingen, an denen ich arbeite.
