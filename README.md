@@ -2,13 +2,13 @@
 
 [![Website](https://img.shields.io/website?label=alisawiali.github.io&style=for-the-badge&url=https%3A%2F%2Falisawiali.github.io)](https://alisawiali.github.io)
 
-Vollstack-Entwickler: Ich verbringe gerne meine Zeit damit, interessante Probleme zu lösen und machbare, innovative Lösungen zu präsentieren. Meine Neugier treibt mich immer dazu an, Antworten auf die drängendsten Fragen zu finden. Ich bin dankbar, die Fähigkeit zu haben, schnell zu lernen und mich an neue Herausforderungen anzupassen. Ich arbeite gerne eng mit Kunden zusammen...
+Follstack-Entwickler: Ich verbringe gerne meine Zeit damit, interessante Probleme zu lösen und machbare, innovative Lösungen zu präsentieren. Meine Neugier treibt mich immer dazu an, Antworten auf die drängendsten Fragen zu finden. Ich bin dankbar, die Fähigkeit zu haben, schnell zu lernen und mich an neue Herausforderungen anzupassen. Ich arbeite gerne eng mit Kunden zusammen...
 ## I like
 
 - 
 Reisen, um Wissen auf Konferenzen, Meetups, Podcasts, Workshops, durch Mentoring usw. zu teilen.
 
-Frontend-Entwicklung,UI, HTML/CSS3, SASS, mobile Responsiveness, Tailwind.css, Javascript, Typescript,Bootstrap, Wordpress, React, GitHub, UI-Design-Konzepte, Fotografie,excel,Word
+Frontend-Entwicklung,UI,Jest, HTML/CSS3, SASS, mobile Responsiveness, Tailwind.css, Javascript, Typescript,Bootstrap, Wordpress, React, GitHub, UI-Design-Konzepte, Fotografie,excel,Word
 
 ## Some of my open-source proje
 
