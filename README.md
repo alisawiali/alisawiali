@@ -1,4 +1,4 @@
-## Hi there,  #  I'm Imad 👋
+## Hi there,  I'm Imad 👋
 
 [![Website](https://img.shields.io/website?label=alisawiali.github.io&style=for-the-badge&url=https%3A%2F%2Falisawiali.github.io)](https://alisawiali.github.io)
 # Junior VPN / Fullstack-Entwickler
