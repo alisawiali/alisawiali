@@ -5,7 +5,7 @@
 Ich verbringe gerne meine Zeit damit, interessante Probleme zu lösen und praktikable, innovative Lösungen zu entwickeln. Meine Neugier treibt mich stets dazu, Antworten auf komplexe Fragen zu finden. Ich bin dankbar für die Fähigkeit, schnell zu lernen und mich an neue Herausforderungen anzupassen.
 
 Als Junior VPN-Spezialist bei BT Berlin Transport GmbH habe ich Grundkenntnisse in OpenVPN und interessiere mich besonders für sichere Netzwerkarchitekturen. Ich arbeite gerne eng mit Kunden zusammen, um Lösungen zu gestalten, die sowohl technisch als auch praktisch überzeugen.
-## I like
+# I like
 
 Reisen, um Wissen auf Konferenzen, Meetups, Podcasts, Workshops, durch Mentoring usw. zu teilen.
 
