@@ -7,7 +7,6 @@ Ich verbringe gerne meine Zeit damit, interessante Probleme zu lösen und prakti
 Als Junior VPN-Spezialist bei BT Berlin Transport GmbH habe ich Grundkenntnisse in OpenVPN und interessiere mich besonders für sichere Netzwerkarchitekturen. Ich arbeite gerne eng mit Kunden zusammen, um Lösungen zu gestalten, die sowohl technisch als auch praktisch überzeugen.
 ## I like
 
-- 
 Reisen, um Wissen auf Konferenzen, Meetups, Podcasts, Workshops, durch Mentoring usw. zu teilen.
 
 Frontend-Entwicklung,UI,Jest, HTML/CSS3, SASS, mobile Responsiveness, Tailwind.css, Javascript, Typescript,Bootstrap, Wordpress, React, GitHub, UI-Design-Konzepte, Fotografie,excel,Word, Junior PVN
